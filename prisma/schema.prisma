@@ -1,0 +1,31 @@
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("NEXT_PUBLIC_DATABASE_URL")
+}
+
+model User {
+    id        Int       @id @default(autoincrement())
+    username  String
+    email     String    @unique
+    password  String
+    products  Product[]
+    createdAt DateTime  @default(now())
+    updatedAt DateTime  @updatedAt
+}
+
+model Product {
+    id             Int      @id @default(autoincrement())
+    title          String
+    description    String
+    recommendedUse String?
+    imageUrl       String
+    fileUrl        String
+    addedBy        User     @relation(fields: [addedById], references: [id])
+    addedById      Int
+    createdAt      DateTime @default(now())
+    updatedAt      DateTime @updatedAt
+}

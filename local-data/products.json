@@ -1,0 +1,66 @@
+[
+  {
+    "imgURL": "https://img.freepik.com/free-vector/beautiful-gradient-spring-landscape_23-2148448598.jpg?t=st=1728145301~exp=1728148901~hmac=95f3648346838a16436ce485de27944fe7720085595bdc09e12a3e76bfa2225d&w=740",
+    "productTitle": "How to Sell on Amazon Checklist",
+    "descriptionSynopsis": "A checklist to help you understand and follow the key steps for selling on Amazon and optimizing your product listings.",
+    "price": "$19.99",
+    "downloadLinkPDF": "https://example.com/download/sell-on-amazon-checklist",
+    "createdAt": "2024-10-01T08:30:00Z",
+    "updatedAt": "2024-10-02T09:00:00Z"
+  },
+  {
+    "imgURL": "https://img.freepik.com/free-vector/african-landscape-poster_1284-12828.jpg?t=st=1728143111~exp=1728146711~hmac=c387cd50f9cacc862ec8fdc8ba42c360748b093e9f4c3dc39f587071142af41a&w=740",
+    "productTitle": "Mastering Social Media Ads",
+    "descriptionSynopsis": "A guide to help you create effective social media ad campaigns and boost your online presence and sales.",
+    "price": "$29.99",
+    "downloadLinkPDF": "https://example.com/download/mastering-social-ads",
+    "createdAt": "2024-09-15T11:00:00Z",
+    "updatedAt": "2024-09-18T12:00:00Z"
+  },
+  {
+    "imgURL": "https://img.freepik.com/free-vector/outdoor-nature-silhouette-sunset-scene_1308-49772.jpg?t=st=1728147721~exp=1728151321~hmac=e485285a161348898607d41b4f32a3c2ff7360429c26be905d7faf0131886a67&w=740",
+    "productTitle": "Ultimate SEO Guide for Beginners",
+    "descriptionSynopsis": "A guide for beginners to learn the basics of SEO and improve website visibility and ranking on search engines like Google and Bing.",
+    "price": "$24.99",
+    "downloadLinkPDF": "https://example.com/download/seo-guide-beginners",
+    "createdAt": "2024-08-10T14:45:00Z",
+    "updatedAt": "2024-08-12T15:30:00Z"
+  },
+
+  {
+    "imgURL": "https://img.freepik.com/free-vector/technology-background-with-waves_23-2148451910.jpg?t=st=1728147771~exp=1728151371~hmac=b0b8f2980a241666567323de1151928c0a341389538a3ff3da0317cd9ff76ec8&w=740",
+    "productTitle": "Tech Startup Survival Guide",
+    "descriptionSynopsis": "A guide to help startups navigate challenges in the tech industry and succeed in the market place with practical tips and strategies.",
+    "price": "$49.99",
+    "downloadLinkPDF": "https://example.com/download/tech-startup-survival",
+    "createdAt": "2024-06-05T09:00:00Z",
+    "updatedAt": "2024-06-10T10:30:00Z"
+  },
+  {
+    "imgURL": "https://img.freepik.com/premium-vector/abstract-technology-vector-background_906149-88767.jpg?w=826",
+    "productTitle": "Web Development Blueprint",
+    "descriptionSynopsis": "A blueprint to help you learn web development with practical projects and coding exercises to enhance your",
+    "price": "$59.99",
+    "downloadLinkPDF": "https://example.com/download/web-dev-blueprint",
+    "createdAt": "2024-09-01T16:00:00Z",
+    "updatedAt": "2024-09-03T16:45:00Z"
+  },
+  {
+    "imgURL": "https://img.freepik.com/premium-vector/futuristic-technology-abstract-geometric-shapes-vector-illustration_1316704-58583.jpg?w=826",
+    "productTitle": "AI in Marketing: A Practical Guide",
+    "descriptionSynopsis": "A practical guide for using AI in marketing strategies to enhance customer engagement and drive sales.",
+    "price": "$44.99",
+    "downloadLinkPDF": "https://example.com/download/ai-marketing-guide",
+    "createdAt": "2024-10-01T17:00:00Z",
+    "updatedAt": "2024-10-02T18:30:00Z"
+  },
+  {
+    "imgURL": "https://img.freepik.com/free-vector/sunset-sunrise-ocean-nature-landscape_33099-2244.jpg?t=st=1728147814~exp=1728151414~hmac=53722c96d50b669e3b9f264b0d6dbdc92386a47e20da7d76b6f4062b994fa414&w=826",
+    "productTitle": "Creative Writing Tips",
+    "descriptionSynopsis": "A PDF with helpful tips to improve your creative writing skills and enhance your storytelling abilities for various genres and formats such as fiction",
+    "price": "$14.99",
+    "downloadLinkPDF": "https://example.com/download/creative-writing-tips",
+    "createdAt": "2024-05-25T13:30:00Z",
+    "updatedAt": "2024-05-27T14:15:00Z"
+  }
+]
